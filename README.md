@@ -1,12 +1,12 @@
 # Import and Export Multiple Values using ES6 Module Syntax
 
-Create two files `exportMultipleValues.mjs`, `importMultipleValues.mjs` parallel to `README.md` file.
+Created two files `exportMultipleValues.mjs`, `importMultipleValues.mjs` parallel to `README.md` file.
 
-Write an array, object and a function that in the file `exportMultipleValues.mjs` and export them using the named export syntax.
+Written an array, object and a function that in the file `exportMultipleValues.mjs` and exported them using the named export syntax.
 
-Import the values in the `importMultipleValues.mjs` file.
+Imported the values in the `importMultipleValues.mjs` file.
 
-<b>Use ES6 module syntax</b>.
+<b>Used ES6 module syntax</b>.
 
 The variable names and values are given in the below table,
 
